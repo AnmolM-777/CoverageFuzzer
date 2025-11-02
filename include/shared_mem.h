@@ -5,3 +5,5 @@
 constexpr size_t MAP_SIZE = 65536;
 class SharedMemory { int shm_id; uint8_t* trace_bits; public: SharedMemory(); ~SharedMemory(); bool setup(); uint8_t* get_ptr() const { return trace_bits; } void clear(); };
 #endif
+
+// Incremental development step #3
