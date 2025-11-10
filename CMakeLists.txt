@@ -7,3 +7,5 @@ add_executable(coverage_fuzzer src/main.cpp)
 target_link_libraries(coverage_fuzzer PRIVATE fuzzer_core pthread)
 
 // Incremental development step #2
+
+// Incremental development step #15
