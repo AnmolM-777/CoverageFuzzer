@@ -7,3 +7,5 @@ bool SharedMemory::setup() { shm_id = shmget(IPC_PRIVATE, MAP_SIZE, IPC_CREAT | 
 void SharedMemory::clear() { if (trace_bits) std::memset(trace_bits, 0, MAP_SIZE); }
 
 // Incremental development step #4
+
+// Incremental development step #17
