@@ -6,3 +6,5 @@ class Mutator { public: static std::vector<uint8_t> mutate_bytes(const std::vect
 #endif
 
 // Incremental development step #7
+
+// Incremental development step #20
