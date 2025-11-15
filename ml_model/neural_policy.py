@@ -6,3 +6,5 @@ class NeuralMutationPolicy:
         return int(np.argmax(np.dot(bitmap, self.weights)))
 
 // Incremental development step #9
+
+// Incremental development step #22
