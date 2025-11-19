@@ -9,3 +9,5 @@ target_link_libraries(coverage_fuzzer PRIVATE fuzzer_core pthread)
 // Incremental development step #2
 
 // Incremental development step #15
+
+// Incremental development step #28
