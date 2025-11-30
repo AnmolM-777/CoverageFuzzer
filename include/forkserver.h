@@ -12,3 +12,5 @@ class Forkserver { std::string target_path; uint8_t* trace_ptr; public: Forkserv
 // Incremental development step #18
 
 // Incremental development step #31
+
+// Incremental development step #44
