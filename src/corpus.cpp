@@ -8,3 +8,5 @@ class Corpus { std::vector<QueueEntry> entries; public: void add(const std::vect
 // Incremental development step #23
 
 // Incremental development step #36
+
+// Incremental development step #49
