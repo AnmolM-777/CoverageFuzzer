@@ -12,3 +12,5 @@ ExitStatus Forkserver::run_target(const std::vector<uint8_t>& input) { pid_t pid
 // Incremental development step #32
 
 // Incremental development step #45
+
+// Incremental development step #58
