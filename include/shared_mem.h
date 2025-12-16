@@ -15,3 +15,5 @@ class SharedMemory { int shm_id; uint8_t* trace_bits; public: SharedMemory(); ~S
 // Incremental development step #42
 
 // Incremental development step #55
+
+// Incremental development step #68
