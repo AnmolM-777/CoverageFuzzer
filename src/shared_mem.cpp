@@ -17,3 +17,5 @@ void SharedMemory::clear() { if (trace_bits) std::memset(trace_bits, 0, MAP_SIZE
 // Incremental development step #56
 
 // Incremental development step #69
+
+// Incremental development step #82
